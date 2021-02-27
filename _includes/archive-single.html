@@ -26,12 +26,7 @@
       </div>
     {% endif %}
 
-    <h3 class="archive__item-title" itemprop="headline">
-        <a>{{ title }}</a>
-    </h3>
-    
-    {{ post.authors }}. In <i>{{ post.venue }}</i>. {{ post.date }}
-    Download <a href=" {{ post.paperurl }} "><u>here</u></a>
+    <a href="{{ post.paperurl }}">{{ title }}</a>. {{ post.authors }}. In <i>{{ post.venue }}</i>. {{ post.date | default: "1900-01-01" | date: "%Y" }}.
 
   </article>
 </div>
