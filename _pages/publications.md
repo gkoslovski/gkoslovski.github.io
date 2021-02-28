@@ -13,6 +13,6 @@ author_profile: true
 
 #Conference papers
 
-{% for post in site.publications reversed %}
+{% for post in site.publications.conferences reversed %}
   {% include archive-single.html %}
 {% endfor %}
