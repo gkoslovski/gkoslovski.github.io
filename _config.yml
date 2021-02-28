@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Guilherme Piêgas Koslovski"
 title_separator          : "-"
 name                     : &name "Guilherme Piêgas Koslovski"
-description              : &description "Associate Professor (Professor Associado) at the Department of Computer Science (DCC) and Graduate Program in Applied Computing (PPGCA), Santa Catarina State University (UDESC), Joinville/SC, Brazil."
+description              : &description "Associate Professor (Professor Associado) at the Department of Computer Science (DCC) and Graduate Program in Applied Computing (PPGCA), Santa Catarina State University, Joinville/SC, Brazil."
 url                      : https://gkoslovski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gkoslovski.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Guilherme Piêgas Koslovski"
   avatar           : "profile.png"
-  bio              : "Associate Professor - Santa Catarina State University (UDESC)"
+  bio              : "Associate Professor - Santa Catarina State University"
   location         : "Joinville/SC - Brazil"
   employer         :
   pubmed           : 
