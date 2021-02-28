@@ -26,6 +26,6 @@
       </div>
     {% endif %}
 
-    {{ post.authors }}. <a target="_blank" href="{{ post.paperurl }}">{{ title }}</a>. In <i>{{ post.venue }}</i>. {{ post.date | default: "1900-01-01" | date: "%Y" }}. <a target="_blank" href="{{ post.paperbib }}">bib</a> <a target="_blank" href="{{ post.doi }}">doi</a>   
+    {{ post.authors }}. <a target="_blank" href="{{ post.paperurl }}">{{ title }}</a>. In <i>{{ post.venue }}</i>. {{ post.date | default: "1900-01-01" | date: "%Y" }}. <a target="_blank" href="{{ post.paperbib }}">[bib]</a> <a target="_blank" href="{{ post.doi }}">[doi]</a>   
   </article>
 </div>
