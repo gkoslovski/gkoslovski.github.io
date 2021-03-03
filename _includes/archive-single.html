@@ -26,6 +26,11 @@
       </div>
     {% endif %}
 
-    <p>{{ post.authors }}. <a target="_blank" href="{{ post.paperurl }}">{{ title }}</a>. In <i>{{ post.venue }}</i>. {{ post.date | default: "1900-01-01" | date: "%Y" }}. <a target="_blank" href="{{ post.doi }}">[doi]</a> </p>
+    {% if post.collection == 'teaching' %}
+        <p>{{ post.title }}. <a target="_blank" href="{{ post.url }}">{{ local }}</a>. 
+    {% else %}
+        <p>{{ post.authors }}. <a target="_blank" href="{{ post.paperurl }}">{{ title }}</a>. In <i>{{ post.venue }}</i>. {{ post.date | default: "1900-01-01" | date: "%Y" }}. <a target="_blank" href="{{ post.doi }}">[doi]</a> </p>
+    {% endif %}
+
   </article>
 </div>
