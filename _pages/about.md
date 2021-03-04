@@ -12,6 +12,8 @@ Associate Professor (Professor Associado) at the Department of Computer Science 
 
 Member of the Laboratory of Parallel and Distributed Processing (<a target="_blank" href="http://labp2d.joinville.udesc.br">LabP2D</a>) at UDESC.
 
+<a href="http://lattes.cnpq.br/2749773427704993">Lattes CV</a>
+
 Contact: guilherme.koslovski@udesc.br
 
 Rua Paulo Malschitzki, 200, Zona Norte, Joinville / SC. CEP 89219-710
