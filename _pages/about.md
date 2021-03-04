@@ -10,9 +10,7 @@ redirect_from:
 
 Associate Professor (Professor Associado) at the Department of Computer Science (<a target="_blank" href="https://www.udesc.br/cct/computacao">DCC</a>) and Graduate Program in Applied Computing (<a target="_blank" href="https://www.udesc.br/cct/ppgca">PPGCA</a>), Santa Catarina State University (<a target="_blank" href="https://www.udesc.br">UDESC</a>), Joinville/SC, Brazil.
 
-Member of the Laboratory of Parallel and Distributed Processing (<a target="_blank" href="http://labp2d.joinville.udesc.br">LabP2D</a>) at UDESC.
-
-<a href="http://lattes.cnpq.br/2749773427704993">Lattes CV</a>
+Member of the Laboratory of Parallel and Distributed Processing (<a target="_blank" href="http://labp2d.joinville.udesc.br">LabP2D</a>) at UDESC. <a href="http://lattes.cnpq.br/2749773427704993">Lattes CV</a>
 
 Contact: guilherme.koslovski@udesc.br
 
