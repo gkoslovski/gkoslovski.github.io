@@ -17,7 +17,7 @@ Education
 
 Service
 ======
-* Program Chair: Fórum de Pós-Graduação da Escola Regional de Alto Desempenho da Região Sul (ERAD/RS) 2019-2020-2021, Escola Regional de Redes de Computadores 2020, Workshop de Inovação e Gerenciamento em Nuvens Computacionais (WIGNC) 2019.
+* Program Chair: Fórum de Pós-Graduação da Escola Regional de Alto Desempenho da Região Sul (ERAD/RS) 2019-2020-2021, Escola Regional de Redes de Computadores 2019-2020, Workshop de Inovação e Gerenciamento em Nuvens Computacionais (WIGNC) 2019.
 
 * Committees: Computer on the Beach (since 2013), Escola Regional de Alto Desempenho (ERAD/RS) (since 2016), Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD) (since 2019), Concurso de Teses e Dissertações do WSCAD (since 2019), Escola Regional de Alto Desempenho (since 2019)
 
