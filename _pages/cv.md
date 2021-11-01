@@ -28,6 +28,7 @@ Service
   * Paraninfo BCC UDESC 2019
 
 * Awards:
+  * 2021 - Second best paper SBAC-PAD: Sparbit: a new Logarithmic-Cost and Data Locality-Aware MPI Allgather Algorithm.
   * 2020 - Best paper CloudNet: Comparative Experimental Analysis of Docker Container Networking Drivers.
   * 2020 - Best short paper Computer on the Beach: Rastreabilidade de alocação e desalocação de contêineres usando Docker Swarm com base em blockchain Hyperledger consorciado
   * 2019 - Best paper ERAD/RS Fórum Pós-Graduação: Proposta de um Escalonador Multicritério Acelerado por GPU para Nuvens OpenStack.
