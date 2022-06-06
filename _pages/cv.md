@@ -19,13 +19,14 @@ Service
 ======
 * Program Chair: Fórum de Pós-Graduação da Escola Regional de Alto Desempenho da Região Sul (ERAD/RS) 2019-2020-2021, Escola Regional de Redes de Computadores 2019-2020, Workshop de Inovação e Gerenciamento em Nuvens Computacionais (WIGNC) 2019.
 
-* Committees: Computer on the Beach (since 2013), Escola Regional de Alto Desempenho (ERAD/RS) (since 2016), Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD) (since 2019), Concurso de Teses e Dissertações do WSCAD (since 2019), Escola Regional de Alto Desempenho (since 2019), Marathon of Parallel Programming do WSCAD (since 2021), International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) (2021-2022), International Conference on Computer Communications and Networks (ICCCN 2022).
+* Committees: Computer on the Beach (since 2013), Escola Regional de Alto Desempenho (ERAD/RS) (since 2016), Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD) (since 2019), Concurso de Teses e Dissertações do WSCAD (since 2019), Workshop de Iniciação Científica do WSCAD (since 2019), Escola Regional de Alto Desempenho (since 2019), Marathon of Parallel Programming do WSCAD (since 2021), International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD) (2021-2022), International Conference on Computer Communications and Networks (ICCCN 2022).
 
 * Reviewing: Journal of Grid Computing, Journal of Parallel Computing, Journal of Network and Systems Management, International Journal of Cooperative Information Systems,  International Journal of Distributed Sensor Networks, IEEE Access, Revista de Empreendedorismo, Inovação e Tecnologia, Revista de Informática Teórica e Aplicada (RITA).
 
 * Distinctions:
   * Paraninfo BCC UDESC 2017
   * Paraninfo BCC UDESC 2019
+  * Paraninfo BCC UDESC 2022
 
 * Awards:
   * 2021 - Second best paper SBAC-PAD: Sparbit: a new Logarithmic-Cost and Data Locality-Aware MPI Allgather Algorithm.
