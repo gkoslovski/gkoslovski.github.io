@@ -11,8 +11,9 @@ redirect_from:
 
 Main research interests
 ======
-* Scheduling 
+* Scheduling and Optimization
   * Job scheduling for HPC infrastructures
+  * ML-based orchestration
   * Network-aware scheduling of virtual infrastructures (e.g., containers, virtual machines and switches)
   * GPU-accelerated schedulers
   * Virtual infrastructures and job scheduling based on machine learning
